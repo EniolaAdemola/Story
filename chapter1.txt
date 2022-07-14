@@ -1,1 +1,1 @@
-Hey this is just a notebook, and im just learning git
+Hey this is just a notebook, and im just learning git branch and merging

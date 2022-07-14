@@ -1,1 +1,1 @@
-This is chapter 2 of me learning git version control
+This is chapter 2 of me learning git version control using branch and mergin
